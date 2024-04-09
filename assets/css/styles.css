@@ -81,3 +81,38 @@ h3{
     padding-left: 10%;
     padding-right: 10%;
 }
+
+.folio{
+    background-color: rgba(99, 138, 33, 0.884);
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
+.cont{
+    background-color: olivedrab;
+    text-align: center;
+    color: beige;
+    padding-top: 20px;
+    padding-left: 10%;
+    padding-right: 10%;
+}
+.info{
+    display: flex;
+}
+
+.contacto{
+    display: flex;
+}
+.contacto i{
+    padding-top: 4px;
+    margin-right: 5px;
+}
+
+footer{
+    background-color: darkolivegreen;
+    height: 4em;
+    color: black;
+    text-align: center;
+    padding-top: 1em;
+    font-weight: 500;
+}
